@@ -1,0 +1,184 @@
+html, body {
+    margin: 10;
+    padding: 10;
+    
+}
+
+.coffee {
+    width: 425px;
+    border: 2px solid red;
+    
+    
+}
+.decaf {
+    width: 425px;
+    border: 2px solid blue;
+
+}
+.donuts {
+    height: 300px;
+    width: 425px;
+    border: 2px solid green;
+
+}
+.nav-bar {
+    position: fixed;
+    width: 100%;
+    margin: 10px;
+    background-color: rgb(55,44,22,.4);
+    
+}
+.about {
+    position: relative;
+    left: 315px;
+   
+}
+.menu {
+    position: relative;
+    left: 315px
+}
+.home {
+    position: relative;
+    left: 315px;
+
+}
+
+.container {
+    position: relative;
+  }
+  
+  .centered-element {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+    top: 50%;
+    margin-top: -50px;
+  }
+
+
+/*............*/
+
+
+
+#container {
+    margin: 10%;
+    box-sizing: border-box;
+    font-size: 0px;
+    
+}
+
+
+#box1 {
+   height: 100px;
+   width: 100PX;
+   background-color: #f5c6d6;
+   display: inline-block;
+   position: relative;
+   margin: 0%;
+ }
+
+
+#box2 {
+    height: 100px;
+    width: 100px;
+    background-color: #EE2E84;
+    display: inline-block;
+    position: relative;
+    margin: 0%;
+  } 
+
+  #box3 {
+    height: 100px;
+    width: 100PX;
+    background-color: #f5c6d6;
+    display: inline-block;
+    position: relative;
+    margin: 0%;
+  }
+  #box4 {
+    height: 100px;
+    width: 100PX;
+    background-color: #f5c6d6;
+    display: inline-block;
+    position: relative;
+    margin: 0%;
+  }
+  #box5 {
+    height: 100px;
+    width: 100PX;
+    background-color: #f5c6d6;
+    display: inline-block;
+    position: relative;
+    margin: 0%;
+  } 
+  #box6 {
+    height: 100px;
+    width: 100PX;
+    background-color: #f5c6d6;
+    display: inline-block;
+    position: relative;
+    margin: 0%;
+  }
+  #box7 {
+    height: 100px;
+    width: 100PX;
+    background-color: #f5c6d6;
+    display: inline-block;
+    position: relative;
+    margin: 0%;
+  }
+  #box8 {
+    height: 100px;
+    width: 100PX;
+    background-color: #f5c6d6;
+    display: inline-block;
+    position: relative;
+    margin: 0%;
+  }
+  #box9 {
+    height: 100px;
+    width: 100PX;
+    background-color: #f5c6d6;
+    display: inline-block;
+    position: relative;
+    margin: 0%;
+  }
+#box1 {
+     width: 100%;
+     background-color: #F5C6D6;
+ }
+#box2 {
+     width: 25%;
+     background-color: #EE2E84;
+ }
+#box3 {
+     width: 25%;
+     background-color: #EE2E84;
+ }
+#box4 {
+     width: 25%;
+     background-color: #EE2E84;
+ }
+#box5 {
+     width: 22%;
+     background-color: #EE2E84;
+ }
+#box6 {
+     width: 50%;
+     background-color: #85CFD8;
+ }
+#box7 {
+    width: 48%;
+    background-color: #85CFD8; 
+ }
+#box8 {
+     width: 75%;
+     background-color: #8dc63f
+ }
+#box9 {
+    width: 23%;
+    background-color: #E76E34 
+ }
+ 
